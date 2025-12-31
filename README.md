@@ -1,5 +1,5 @@
-<h1 align="center">👋 Hi, I'm Sarvar</h1>
-<p align="center">I am a Frontend Developer with a background in Computer Engineering and a strong passion for programming. I am currently working as a Frontend Developer while also serving as an instructor in Data Structures & Algorithms. My goal is not only to build functional and visually appealing web applications, but also to effectively teach algorithmic thinking to young programmers. I value continuous learning, applying my knowledge in real-world projects, and sharing what I learn with others.</p>
+<h1 align="start">👋 Hi, I'm Sarvar</h1>
+<p align="start">I am a Frontend Developer with a background in Computer Engineering and a strong passion for programming. I am currently working as a Frontend Developer while also serving as an instructor in Data Structures & Algorithms. My goal is not only to build functional and visually appealing web applications, but also to effectively teach algorithmic thinking to young programmers. I value continuous learning, applying my knowledge in real-world projects, and sharing what I learn with others.</p>
 
 - 🔭 I’m currently working on [Maestro School](https://www.maestroschool.edu.az/az/kids)
 
